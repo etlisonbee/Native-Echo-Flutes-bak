@@ -10,7 +10,9 @@ gem 'sqlite3'
 gem 'therubyracer'
 gem 'execjs'
 gem 'braintree' 
-gem 'spree_blue_theme', :git => 'git://github.com/spree/spree_blue_theme.git'  
+gem 'spree_blue_theme', :git => 'git://github.com/spree/spree_blue_theme.git'
+gem 'heroku'
+#gem 'spree_mobile_views', :git => 'git://github.com/romul/spree_mobile_views.git', :branch => 'master'
 
 # Gems used only for assets and not required
 # in production environments by default.

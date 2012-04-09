@@ -1,4 +1,6 @@
 .bundle
+.idea/workspace.xml
+Gemfile.lock
 db/*.sqlite3
 log/*.log
 tmp/**/*
